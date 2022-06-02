@@ -5,9 +5,10 @@ Spring 2022
 
 Code authors
 -----------
+Simran Goindani |
 Swarnima Deshmukh |
-Pranjali Agarwal |
-Simran Goindani
+Pranjali Agarwal 
+
 
 Installation
 ------------
